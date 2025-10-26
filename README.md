@@ -1,5 +1,3 @@
-![Dying Light Mod Banner](./assets/DL.jpg)
-
 # 🧟 Your Go-To Dying Light 1 Mod Index! (Retouched Compatible!)
 
 Hey there, fellow Pilgrim! Welcome to the one-stop spot for the best and most impactful mods for the legendary **Dying Light (The Retouched/Enhanced Edition)**. After all these years, this game still rocks, and great mods keep Harran feeling fresh!
@@ -13,7 +11,7 @@ Just a heads-up! This index **doesn't actually host any mod files or game assets
 | **Topic** | **Details** | 
  | ----- | ----- | 
 | **Compatibility** | Since Techland dropped that huge **June 2025 "Retouched" Update**, which tweaked the **PBR lighting, shadows, and LOD (Level of Detail) settings**, lots of older mods (especially visuals!) might be **totally broken or cause glitches!** Always check the mod's page to make sure the author explicitly confirms it says it's compatible with the latest game version. | 
-| **Installation** | Seriously, always back up your original game files first, especially the core `.pak` archives, just in case! You should use a reliable tool like the **Vortex Mod Manager** when possible—it just makes things easier and helps track file conflicts. For advanced mods, be ready to manually edit game files. | 
+| **Installation** | Seriously, always back up your original game files first, especially the core `.pak` archives, just in case! You should use a reliable tool like the [**Vortex Mod Manager**](https://www.nexusmods.com/site/mods/240) when possible—it just makes things easier and helps track file conflicts. For advanced mods, be ready to manually edit game files. | 
 | **Credit** | These mods aren't mine. All the amazing work belongs to the original authors! Please go give them your support and thanks directly on their download pages! Giving proper credit is huge in the modding community! | 
 
 ## 🗺️ Start Parkouring Through the Categories!
